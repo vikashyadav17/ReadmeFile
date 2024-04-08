@@ -9,6 +9,9 @@ Photographer & videographar team - 1st year
 Technical Team - 3rd Year
 
 1. Aayush Dutta
+Technical Team - 1st Year
+1. Shiwangi 
+
 2.Jagannath Roy
 
 Video Editor- 1st Year
@@ -17,4 +20,5 @@ Video Editor- 1st Year
 Content writer Team - 1st year
 
 1. Anurag Gupta
+
 

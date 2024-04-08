@@ -8,3 +8,6 @@ Photographer team - 1st year
 Technical Team - 3rd Year
 
 1. Aayush Dutta
+2.Jagannath Roy
+
+

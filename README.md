@@ -1,24 +1,33 @@
+<h1># ReadmeFile</h1>
 
-# ReadmeFile
-Photographer & videographar team - 1st year 
+<h2>1. Gyanshankar pd singh</h2>
+    
+<h3>Photographer Team - 1st Year</h3> 
+    
+<h2>2. Anish Pati</h2>
+    
+<h3>Videographar Team - 1st Year</h3>
+    
+<h2>3. Aayush Dutta</h2>
+    
+<h3>Technical Team - 3rd Year</h3>
+    
+<h2>4. Shiwangi</h2>
+    
+<h3>Technical Team - 1st Year</h3>
+    
+<h2>5.Jagannath Roy</h2>
+    
+<h3>Technical Team - 1st Year</h3>
 
-1. Gyanshankar pd singh
-2. Anish Pati 
-
-
-Technical Team - 3rd Year
-
-1. Aayush Dutta
-Technical Team - 1st Year
-1. Shiwangi 
-
-2.Jagannath Roy
-
-Video Editor- 1st Year
-1. Avinash Kumar
-
-Content writer Team - 1st year
-
-1. Anurag Gupta
-
-
+<h2>6.Shubham Raj</h2>
+    
+<h3>Technical Team - 1st Year</h3>
+    
+<h2>7. Avinash Kumar</h2>
+    
+<h3>Video Editor Team- 1st Year</h3>
+    
+<h2>8. Anurag Gupta</h2>
+    
+<h3>Content Writer Team - 1st Year</h3>

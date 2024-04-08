@@ -11,3 +11,5 @@ Technical Team - 3rd Year
 2.Jagannath Roy
 
 
+Video Editor- 1st Year
+1. Avinash Kumar

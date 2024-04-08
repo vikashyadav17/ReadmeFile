@@ -32,6 +32,6 @@
     
 <h3>Content Writer Team - 1st Year</h3>
 
-<h3>Riju kumari</h3>
+<h1>Riju kumari</h1>
 
-<h3>Technical Team -1st year</h3>
+<h1>9. Technical Team - 1st year</h1>

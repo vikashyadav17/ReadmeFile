@@ -31,3 +31,7 @@
 <h2>8. Anurag Gupta</h2>
     
 <h3>Content Writer Team - 1st Year</h3>
+
+<h3>Riju kumari</h3>
+
+<h3>Technical Team -1st year</h3>

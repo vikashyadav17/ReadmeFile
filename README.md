@@ -11,3 +11,6 @@ Technical Team - 3rd Year
 2.Jagannath Roy
 
 
+Content writer Team - 1st year
+
+1. Anurag Gupta

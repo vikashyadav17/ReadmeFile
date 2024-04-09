@@ -35,3 +35,7 @@
 <h1>Riju kumari</h1>
 
 <h1>9. Technical Team - 1st year</h1>
+
+<h3>Public Relations - 1st Year</h3>
+    
+<h2>10. Gourav Mandal </h2>

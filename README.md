@@ -34,5 +34,5 @@
 <h3>- Public Relations - 2nd Year</h3>
 
 
-<h2>12. Pusph</h2>
+<h2>12. Pushp</h2>
 <h3>- Technical Team - 2nd Year</h3>

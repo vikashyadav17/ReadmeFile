@@ -28,7 +28,7 @@
 <h3>- Technical Team - 1st Year</h3>
 
 <h2>10. Vikash Yadav</h2>
-<h3>- Public Relations - 1st Year</h3>
+<h3>- Public Relations - 2nd Year</h3>
     
 <h2>11. Gourav Mandal</h2>
 <h3>- Public Relations - 2nd Year</h3>

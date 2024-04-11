@@ -35,7 +35,9 @@
 <h1>Riju  pandey</h1>
 
 <h1>9. Technical Team - 1st year</h1>
+<h1> 10. Public Relations - 2nd year </h1>
 
+<h2> Vikash Yadav </h2>
 <h3>Public Relations - 1st Year</h3>
     
 <h2>10. Gourav Mandal </h2>
